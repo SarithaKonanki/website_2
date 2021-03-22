@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card1 {
+    text-align: center;
+    font-family: "Roboto";
+    color: #ffffff;
+    height: 100vh;
+    width: 100vw;
+    padding: 8px;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+}
+
+.card2 {
+    margin-bottom: 40px;
+    margin-top: -8px;
+    text-align: center;
+    height: 50px;
+    background-color: #323f4b;
+    padding: 8px;
+    width: 100vw;
+}
+
+.card3 {
+    margin: 20px 8px 10px 8px;
+    text-align: right;
+    background-color: #47a3f3;
+    height: 45px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding: 10px;
+}
+
+.card4,
+ {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 20px 8px 10px 8px;
+    text-align: left;
+    height: 45px;
+    background-color: #52606d;
+    padding: 10px;
+}
